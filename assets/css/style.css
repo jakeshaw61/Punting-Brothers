@@ -87,3 +87,25 @@ header {
     margin: 30px auto 0;
     border-radius: 30px;
 }
+
+/* About section */
+
+.about-row {
+    background: #CCE0E0;
+    color: black;
+    text-align: center;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin: 20px 15px;
+}
+
+.about-row h2 {
+    padding-top: 15px;
+    font-size: 1.7rem;
+}
+
+.about-row p {
+    padding: 15px 10px;
+}
