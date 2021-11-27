@@ -23,3 +23,50 @@ p, a, label {
     font-weight: 400;
     font-size: 16px;
 }
+
+/* Header section - Logo */
+
+header {
+    background: #CCE0E0;
+}
+
+.logo-row {
+    display: flex;
+    padding: 15px 0;
+    justify-content: space-around;
+}
+
+.logo {
+    text-transform: uppercase;
+    color: black;
+    font-size: 250%;
+    text-align: center;
+}
+
+.logo-row a {
+    text-decoration: none;
+}
+
+/* Header Section - Navigation bar */
+
+.nav-row {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;  
+    align-items: center;
+    text-transform: uppercase;
+    padding: 15px 0;
+}
+
+.nav-row a {
+    transition: 0.3s ease;
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .nav-row a:hover {
+    border-top: 3px solid #ffffff;
+    border-bottom: 3px solid #ffffff;
+    padding: 5px 0; 
+  }
