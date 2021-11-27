@@ -544,6 +544,7 @@ footer {
         max-width: 100%;
         height: auto;
     }
+
     .col-service {
         margin: 10px 5px;  
     }
@@ -555,11 +556,12 @@ footer {
     }
 
     .services-page{
-        margin: 0 4%;
+        margin: 0 5%;
     }
 
     .public-col-1 {
         width: 50%;
+        align-items: center;
     }
 
     .public-col-2 {
@@ -592,5 +594,34 @@ footer {
         column-count: 3;
         margin: 15px 5%;
     }
+}
 
+/* Media queries for screen size 992px and up */
+
+@media screen and (min-width: 992px) {
+    
+    .welcome-container {
+        margin: 0 8%;
+    }
+
+    .about-row {
+        margin: 15px 10%;
+    }
+
+    .history-row {
+        margin: 0 10%;
+    }
+
+    .services-row {
+        margin: 0 10%;
+    }
+    
+    .services-page{
+        margin: 0 10%;
+    }
+
+    .image-grid {
+        column-count: 3;
+        margin: 15px 10%;
+    }
 }
