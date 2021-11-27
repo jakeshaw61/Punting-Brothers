@@ -69,6 +69,7 @@ header {
     color: #000000;
     text-decoration: none;
     font-weight: 500;
+    font-size: 15px;
   }
 
   .nav-row a:hover {
@@ -104,7 +105,7 @@ header {
     display: flex;
     justify-content: space-around;
     flex-direction: column;
-    margin: 20px 15px;
+    margin: 30px 15px 0;
 }
 
 .about-row h2 {
@@ -452,7 +453,7 @@ footer {
     }
 
     .about-row {
-        margin: 15px 8%;
+        margin: 30px 8%;
     }
 
     .history-row {
@@ -530,7 +531,7 @@ footer {
     }
 
     .about-row {
-        margin: 15px 5%;
+        margin: 30px 5%;
     }
 
     .history-row {
@@ -620,7 +621,7 @@ footer {
     }
 
     .about-row {
-        margin: 15px 10%;
+        margin: 30px 10%;
     }
 
     .history-row {
@@ -658,7 +659,7 @@ footer {
     }
 
     .about-row {
-        margin: 15px 14%;
+        margin: 30px 14%;
     }
 
     .history-row {
