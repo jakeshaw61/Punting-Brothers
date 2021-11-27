@@ -248,9 +248,7 @@ footer {
     margin: 10px 0;
 }
 
-/* services page */
-
-/* Public Section  */
+/* Services page - Public Section  */
 
 .services-page{
     margin: 0 5%;
@@ -409,4 +407,36 @@ footer {
     width: 100%;
     height: auto;
     padding: 5px;
+}
+
+/* Thank you response page. */
+
+.thanks-row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.thanks-row h2 {
+    font: 1.7rem;
+    padding: 10px 0;
+}
+
+.thanks-row p {
+    padding: 0 10px;
+}
+
+.socials-col {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.socials-col i {
+    font-size: 2rem;
+    color: #000000;
+    margin: 10px 0;
+    padding: 10px 0;
 }
