@@ -451,11 +451,11 @@ footer {
     }
 
     .about-row {
-        margin: 15px 10%;
+        margin: 15px 8%;
     }
 
     .history-row {
-        margin: 0 10%;
+        margin: 0 8%;
     }
     
     .services-row {
@@ -470,23 +470,23 @@ footer {
         margin: 15px 10%;
     }
 
-    .public-row, .private-row, .self-hire-row{
-        margin: 15px 10%;
+    .services-page{
+        margin: 0 10%;
     }
 
     .public-col-1 img {
         max-width: 100%;
-        max-height: 100%;
+        height: auto;
     }
 
     .private-col-1 img {
         max-width: 100%;
-        max-height: 100%;
+        height: auto;
     }
 
     .self-hire-col-1 img {
         max-width: 100%;
-        max-height: 100%;
+        height: auto;
     }
     
     .enquiry-title {
@@ -505,4 +505,92 @@ footer {
     .footer-row-1 {
         flex-direction: row;
     }
+
+    .input-area {
+        width: 100%;
+        
+    }
+    
+    .comment-area {
+        width: 400px;
+        height: 150px;
+    }
+
+}
+
+/* Media queries for screen size 768px and up  */
+
+@media screen and (min-width: 768px) {
+
+    .welcome-container {
+        margin: 0 4%;
+    }
+
+    .about-row {
+        margin: 15px 5%;
+    }
+
+    .history-row {
+        flex-direction: row;
+        margin: 0 5%;
+    }
+
+    .services-row {
+        flex-direction: row;
+        margin: 0 5%;
+    }
+
+    .services-row img {
+        max-width: 100%;
+        height: auto;
+    }
+    .col-service {
+        margin: 10px 5px;  
+    }
+
+    .public-row, .private-row, .self-hire-row {
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    .services-page{
+        margin: 0 4%;
+    }
+
+    .public-col-1 {
+        width: 50%;
+    }
+
+    .public-col-2 {
+        margin: 10px 10px;
+        width: 50%;
+        text-align: left;
+    }
+
+    .private-col-1 {
+        width: 50%;
+    }
+
+    .private-col-2 {
+        margin: 10px 10px;
+        width: 50%;
+        text-align: left;
+    }
+
+    .self-hire-col-1 {
+        width: 50%;
+    }
+    
+    .self-hire-col-2 {
+        margin: 10px 10px;
+        width: 50%;
+        text-align: left;
+    }
+
+    .image-grid {
+        column-count: 3;
+        margin: 15px 5%;
+    }
+
 }
