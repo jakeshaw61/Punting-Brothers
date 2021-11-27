@@ -204,3 +204,46 @@ header {
     margin-bottom: 30px;
     margin-top: 5px;
 }
+
+/* Footer */
+
+footer {
+    margin-top: auto;
+}
+
+.footer-row-1 {
+    text-align: center;
+    background: #696969;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.contact-col {
+    margin:auto;
+}
+
+.footer-row-1 p {
+    color: #ffffff;
+    line-height: 1.4rem;
+    margin: 10px 0;
+}
+
+.footer-row-2 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background: #696969;
+}
+
+.map-col {
+    margin: auto;
+    padding: 15px 0;
+}
+
+.footer-row-2 i {
+    font-size: 2rem;
+    padding: 0 30px;
+    color: #ffffff;
+    margin: 10px 0;
+}
