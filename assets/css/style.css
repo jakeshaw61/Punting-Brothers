@@ -247,3 +247,90 @@ footer {
     color: #ffffff;
     margin: 10px 0;
 }
+
+/* services page */
+
+/* Public Section  */
+
+.services-page{
+    margin: 0 5%;
+}
+
+.public-row {
+    display: flex;
+    margin: 20px 0;
+    flex-direction: column;
+}
+
+.public-col-1 img {
+    width: 100%;
+    max-height: auto;
+    border-radius: 15px;
+}
+
+.public-col-2 {
+    margin: 10px 10px;
+    text-align: center;
+}
+
+.public-col-2 h3 {
+    padding-top: 10px;
+}
+
+.public-col-2 p {
+    padding-top: 5px;
+}
+
+/* Private Section */
+
+.private-row {
+    display: flex;
+    margin: 20px 0;
+    flex-direction: column;
+}
+
+.private-col-1 img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+
+.private-col-2 {
+    margin: 10px 10px;
+    text-align: center;
+}
+
+.private-col-2 h3 {
+    padding-top: 10px;
+}
+
+.private-col-2 p {
+    padding-top: 5px;
+}
+
+/* Self-Hire Section */
+
+.self-hire-row {
+    display: flex;
+    margin: 20px 0;
+    flex-direction: column;
+}
+
+.self-hire-col-1 img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+
+.self-hire-col-2 {
+    margin: 10px 10px;
+    text-align: center;
+}
+
+.self-hire-col-2 h3 {
+    padding-top: 10px;
+}
+
+.self-hire-col-2 p {
+    padding-top: 5px;
+}
