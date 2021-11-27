@@ -396,3 +396,17 @@ footer {
     background: #2286D3;
 }
 
+/* Gallery page */
+
+.image-grid {
+    line-height: 0;
+    column-count: 1;
+    gap: 0;
+    margin: 20px 10px;
+}
+  
+.grid-image {
+    width: 100%;
+    height: auto;
+    padding: 5px;
+}
