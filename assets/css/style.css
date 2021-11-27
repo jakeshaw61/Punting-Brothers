@@ -182,3 +182,25 @@ header {
     background: #08415c;
     color: white;
 }
+
+/* Reviews section */
+
+#reviews {
+    margin: 20px 5%;
+}
+.reviews-row {
+    text-align: center;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+
+.reviews-row p {
+    font-size: 14px;
+}
+
+.reviews-row i {
+    color:gold;
+    margin-bottom: 30px;
+    margin-top: 5px;
+}
