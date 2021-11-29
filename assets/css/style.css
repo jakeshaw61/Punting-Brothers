@@ -212,6 +212,7 @@ footer {
     margin-top: auto;
     bottom: 0;
     position: relative;
+    background: #696969
 }
 
 .footer-row-1 {
@@ -236,7 +237,6 @@ footer {
     display: flex;
     text-align: center;
     justify-content: center;
-    background: #696969;
 }
 
 .map-col {

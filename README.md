@@ -47,7 +47,7 @@ I used 2 google fonts for the site which are Oswald and Montserrat. For the logo
 ## Wireframes 
 I used Balsamiq to make some wireframes of how I wanted the site to look. Making the wireframes was very useful as I was able to imagine what the pages and features would look like on different size screens. 
 
-[Wireframes] ()
+[Wireframes](https://github.com/jakeshaw61/punting-brothers/tree/main/assets/wireframes)
 
 
 
@@ -125,13 +125,18 @@ post results here
 post results here
 
 ## Deployment 
-post deployment instrcutions here 
+The site was deployed to GitHub pages, the steps to deploy are as follows:
+- In the GitHub repository, navigate to the Settings tab
+- From the source section drop-down menu, select the Master Branch
+- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
 
 ## Credits 
 
 ### Content 
 - Icons taken from Font Awesome.
-- Image compressor - Optimazilla.  
+- Image compressor - Optimazilla. 
+- Deployment instructions take from Code Institute readme template. 
 
 ### Media 
 - Images were taken from Shutterstock, Unsplash, Pexels and Pixaby.
