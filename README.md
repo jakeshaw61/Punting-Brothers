@@ -76,7 +76,7 @@ This section introduces The Punting Brothers to the user. It includes a short st
 In the history section a brief history of the punts is given to help the user understand what punting actually is and how it all started. It also gives a brief history of Cambridge, which introduces the user to some of the information they might hear on the service.
 
 ### Services Intro 
-![Image](/assets/screenshots/.png?raw=true)
+![Image](/assets/screenshots/services-intro.png?raw=true)
 This section includes 3 images, with a short introduction underneath to each service that is on offer. It also includes a ‘Find Out More’ button which takes you to the Services page where you can find the full information about each service offered.
 
 ### Reviews 
@@ -111,14 +111,16 @@ This page has a large thank you message centred on the page explaining the users
 
 ### Html 
 I used the W3C Markup Service to validate my HTML. There were no errors found but warnings flagged about some sections lacking heading (Landing image, Reviews and Gallery sections)
-- [View Screenshots Here]()
+![Image](/assets/screenshots/index-warnings.png?raw=true)
+![Image](/assets/screenshots/gallery-warnings.png?raw=true)
 
 ### CSS
 I used the W3C CSS Validation Service to validate my CSS. No errors were found. 
-- [View Screentshots Here]()
+![Image](/assets/screenshots/css-validator.png?raw=true)
 
 ### Lighthouse 
-post results here 
+
+![Image](/assets/screenshots/lighthouse.png?raw=true)
 
 ### Responsive 
 I used a mobile first approach when designing the site, starting off at the smallest screen size of 320px and scaling it up to screen sizes larger than 1200px. I used Flex-Box and Grid throughout the site, so when i came to the media queries i only had to make some simple changes like flex-direction or column count to make it responsive for other screen sizes. 
