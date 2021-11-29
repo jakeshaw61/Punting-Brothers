@@ -9,19 +9,22 @@ You can view the live site here. [The Punting Brothers]()
 ### User Stories
 
 ### As a site creator:
-- ggrg grg
-- ggrg grg
-- ggrg grg
+- I want to make the site visually appealing upon first impression, so the user is interested in exploring the site more.
+- I want to make the site easy to navigate for the user, so they can find what services are on offer.
+- I want the user to be able to easily find information about a particular service.
+
 
 ### As a first time user:
-- ggrg grg
-- ggrg grg
-- ggrg grg
+- I want to be able to find out Information about the company.
+- I want to be able navigate through the site with ease.
+- I want to be able to find out about the services on offer.
+
 
 ### As a returning user:
-- ggrg grg
-- ggrg grg
-- ggrg grg
+- I want to feel I am familiar with the site and can remember how to navigate through it.  
+- I want to be able to find out information on other or new services. 
+- I want to connect with social media linked to the company to improve my experience.
+
 
 
 ## Design 
@@ -43,7 +46,7 @@ I used 2 google fonts for the site which are Oswald and Montserrat. For the logo
 ## Wireframes 
 I used Balsamiq to make some wireframes of how I wanted the site to look. Making the wireframes was very useful as I was able to imagine what the pages and features would look like on different size screens. 
 
-[Wireframes]()
+[Wireframes] ()
 
 
 
@@ -56,24 +59,31 @@ I used Balsamiq to make some wireframes of how I wanted the site to look. Making
 ## Features
 
 ### Logo and Navigation Bar
+![Image](/assets/screenshots/logo-and-navigation-bar.png?raw=true)
 The logo and navigation bar are featured across all pages including the Thank-you page the user sees when submitting the enquiry form. It includes links to the Logo, About section, History section, Services page and the Gallery page. The navigation bar is fully responsive and the view of the navigation bar is the same across all screen sizes so it will feel familiar to users. This allows users to easily navigate between pages without having to use the back button.
 
 ### The Landing Image
+![Image](/assets/screenshots/landing-image.png?raw=true)
 The home page features a landing image of a bright, colourful scene of the River Cam with lots of people punting which stands out against the off-white background. I chose this image as it is a good introduction to The Punting Brothers.
 
 ### About
+![Image](/assets/screenshots/about-section.png?raw=true)
 This section introduces The Punting Brothers to the user. It includes a short story of how the company was established and introduces the services that are on offer. This section also touches on the main goals of the company?????? 
 
 ### History 
+![Image](/assets/screenshots/history-section.png?raw=true)
 In the history section a brief history of the punts is given to help the user understand what punting actually is and how it all started. It also gives a brief history of Cambridge, which introduces the user to some of the information they might hear on the service.
 
 ### Services Intro 
+![Image](/assets/screenshots/.png?raw=true)
 This section includes 3 images, with a short introduction underneath to each service that is on offer. It also includes a ‘Find Out More’ button which takes you to the Services page where you can find the full information about each service offered.
 
 ### Reviews 
+![Image](/assets/screenshots/reviews-section.png?raw=true)
 This section includes 3 reviews from previous users, with star rating icons as a visual cue. Each review talks about a service and helps new users to form an opinion on The Punting Brothers.
 
 ### Footer
+![Image](/assets/screenshots/footer.png?raw=true)
 The Footer is featured across all pages including the Thank-you page. It includes the contact information for The Punting Brothers, opening times, address and an embedded google map which opens in a new tab with the location of the company. It also includes social media icons for Facebook, Instagram and Twitter, which when clicked open in a new tab.
 
 ### Services Page - Services 
