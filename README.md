@@ -31,14 +31,14 @@ You can view the live site here. [The Punting Brothers]()
 I wanted a minimalist overall design with interesting images on each page and a simple colour scheme that links  throughout.
 
 ### Colour Scheme
-![Image](/assets/screenshots/colour-scheme.png?raw=true)
+![Image](/assets/screenshots/colour-scheme.png?raw=true)  
 I have chosen one feature colour throughout the site which blends the pages together. I chose this colour to be the feature as it similar to the Cambridge Blue, which is associated to the city and university.  This colour is used for the header, form section and for the buttons with a darker shade for the hover over.  I choose a medium grey colour to clearly define the footer which stands out against the off-white background.
 
 ### Typography
 I used 2 google fonts for the site which are Oswald and Montserrat. For the logo and headings, I chose Oswald as I wanted a strong, bolder font to make each section of the page clear. I then used Montserrat for the majority of the text on the site. These two fonts are used throughout the site to maintain consistency. I choose Sans Serif as a fallback font. 
 
 ### Images 
-- Home Page - The Homepage includes a hero image of a bright, colourful scene of the River Cam with lots of people punting, which stands out against the off-white background. I chose this image as it is a good introduction to the page and what it offers. Further down the home page there are 3 images representing each service that is on offer, these images are also clickable links to the full services page.
+- Home Page - The Homepage includes a hero image of a bright, colourful scene of the River Cam with lots of people punting, which stands out against the off-white background. I chose this image as it is a good introduction to the page and what it offers. Further down the home page there are 3 images representing each service that is on offer.
 
 - Services Page - The services page includes an image for each service that is on offer, which are different from the ones seen on the homepage. I chose images that are related to each service to help the user understand more about the services being featured.
 
@@ -110,19 +110,21 @@ This page has a large thank you message centred on the page explaining the users
 ## Testing 
 
 ### Html 
-post results here 
+I used the W3C Markup Service to validate my HTML. There were no errors found but warnings flagged about some sections lacking heading (Landing image, Reviews and Gallery sections)
+- [View Screenshots Here]()
 
 ### CSS
-post results here 
+I used the W3C CSS Validation Service to validate my CSS. No errors were found. 
+- [View Screentshots Here]()
 
 ### Lighthouse 
 post results here 
 
 ### Responsive 
-post results here  
+I used a mobile first approach when designing the site, starting off at the smallest screen size of 320px and scaling it up to screen sizes larger than 1200px. I used Flex-Box and Grid throughout the site, so when i came to the media queries i only had to make some simple changes like flex-direction or column count to make it responsive for other screen sizes. 
 
 ### Bugs 
-post results here
+
 
 ## Deployment 
 The site was deployed to GitHub pages, the steps to deploy are as follows:
