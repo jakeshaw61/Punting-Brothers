@@ -233,6 +233,11 @@ footer {
     margin: 10px 0;
 }
 
+.map-col iframe {
+    max-width:  270px;
+    height: auto;
+}
+
 .footer-row-2 {
     display: flex;
     text-align: center;
