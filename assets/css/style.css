@@ -72,6 +72,11 @@ header {
     font-size: 15px;
   }
 
+  .nav-row .active {
+
+      border-bottom: 3px solid #ffffff;
+  }
+
   .nav-row a:hover {
     border-top: 3px solid #ffffff;
     border-bottom: 3px solid #ffffff;
@@ -183,14 +188,12 @@ header {
 
 /* Reviews section */
 
-#reviews {
-    margin: 20px 5%;
-}
 .reviews-row {
     text-align: center;
     display: flex;
     gap: 10px;
     flex-direction: column;
+    margin: 10px 5%;
 }
 
 .reviews-row p {
@@ -539,6 +542,10 @@ footer {
         margin: 0 5%;
     }
 
+    .history-col {
+        width: 50%;
+    }
+
     .services-row {
         flex-direction: row;
         margin: 0 5%;
@@ -550,12 +557,12 @@ footer {
     }
 
     .col-service {
-        margin: 10px 5px;  
+        margin: 10px 5px;
     }
 
     .public-row, .private-row, .self-hire-row {
         flex-direction: row;
-        justify-content: center;
+        
         align-items: flex-start;
     }
 
@@ -605,15 +612,15 @@ footer {
 @media screen and (min-width: 992px) {
     
     h2 {
-        font-size: 1.9rem;
+        font-size: 1.8rem;
     }
      
     h3 {
-        font-size: 1.4rem;
+        font-size: 1.3rem;
     }
 
     p, a, label {
-        font-size: 18px;
+        font-size: 17px;
     }
 
     .welcome-container {

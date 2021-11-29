@@ -1,5 +1,5 @@
 # The Punting Brothers
-
+![Image](/assets/screenshots/responsive.png?raw=true)
 The Punting Brothers website is aimed at those who are looking to go punting for the first time or those who have been punting before but would like to try a different service. The site also offers a brief history of the punts and Cambridge which helps cater to those who have no previous knowledge of punting.
 
 You can view the live site here. [The Punting Brothers]()
@@ -31,6 +31,7 @@ You can view the live site here. [The Punting Brothers]()
 I wanted a minimalist overall design with interesting images on each page and a simple colour scheme that links  throughout.
 
 ### Colour Scheme
+![Image](/assets/screenshots/colour-scheme.png?raw=true)
 I have chosen one feature colour throughout the site which blends the pages together. I chose this colour to be the feature as it similar to the Cambridge Blue, which is associated to the city and university.  This colour is used for the header, form section and for the buttons with a darker shade for the hover over.  I choose a medium grey colour to clearly define the footer which stands out against the off-white background.
 
 ### Typography
@@ -129,8 +130,8 @@ post deployment instrcutions here
 ## Credits 
 
 ### Content 
-- Icons take from Font Awesome
-- Image compressor 
+- Icons taken from Font Awesome.
+- Image compressor - Optimazilla.  
 
 ### Media 
 - Images were taken from Shutterstock, Unsplash, Pexels and Pixaby.
