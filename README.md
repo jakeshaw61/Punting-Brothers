@@ -69,7 +69,7 @@ The home page features a landing image of a bright, colourful scene of the River
 
 ### About
 ![Image](/assets/screenshots/about-section.png?raw=true)
-This section introduces The Punting Brothers to the user. It includes a short story of how the company was established and introduces the services that are on offer. This section also touches on the main goals of the company?????? 
+This section introduces The Punting Brothers to the user. It includes a short story of how the company was established and introduces the services that are on offer. This section also touches on the aims of the company. 
 
 ### History 
 ![Image](/assets/screenshots/history-section.png?raw=true)
