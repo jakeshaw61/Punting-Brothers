@@ -87,15 +87,19 @@ This section includes 3 reviews from previous users, with star rating icons as a
 The Footer is featured across all pages including the Thank-you page. It includes the contact information for The Punting Brothers, opening times, address and an embedded google map which opens in a new tab with the location of the company. It also includes social media icons for Facebook, Instagram and Twitter, which when clicked open in a new tab.
 
 ### Services Page - Services 
+![Image](/assets/screenshots/services-page.png?raw=true)
 This page includes 3 sections related to Shared Tour, Private Tour and Self-Hire. Each section has details about the service including the prices. These also include a large image, related to the service to help users understand more about the service they will experience.
 
 ### Services Page - Enquiry Form
+![Image](/assets/screenshots/form-section.png?raw=true)
 The sections includes an enquiry form for users to submit a message to The Punting Brothers. The user will be asked to submit their full name, email address and a message. The form button links to a Thank-you response page.
 
 ### Gallery Page
+![Image](/assets/screenshots/gallery-page.png?raw=true)
 This page features a large gallery wall with supporting images of Cambridge and punting, so users can see what the services will inlcude. 
 
 ### Thank You Resonse Page
+![Image](/assets/screenshots/thank-you-response.png?raw=true)
 This page has a large thank you message centred on the page explaining the users enquiry has been received. It also encourages users to link with social media accounts while they wait for a reply. 
 
 ### Future Features
