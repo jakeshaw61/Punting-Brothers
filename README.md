@@ -1,5 +1,5 @@
 # The Punting Brothers
-![Image](/assets/screenshots/responsive.png?raw=true)
+![Image](assets/screenshots/responsive.png?raw=true)
 The Punting Brothers website is aimed at those who are looking to go punting for the first time or those who have been punting before but would like to try a different service. The site also offers a brief history of the punts and Cambridge which helps cater to those who have no previous knowledge of punting.
 
 You can view the live site here. [The Punting Brothers]()
@@ -31,7 +31,7 @@ You can view the live site here. [The Punting Brothers]()
 I wanted a minimalist overall design with interesting images on each page and a simple colour scheme that links  throughout.
 
 ### Colour Scheme
-![Image](/assets/screenshots/colour-scheme.png?raw=true)  
+![Image](assets/screenshots/colour-scheme.png?raw=true)  
 I have chosen one feature colour throughout the site which blends the pages together. I chose this colour to be the feature as it similar to the Cambridge Blue, which is associated to the city and university.  This colour is used for the header, form section and for the buttons with a darker shade for the hover over.  I choose a medium grey colour to clearly define the footer which stands out against the off-white background.
 
 ### Typography
@@ -49,58 +49,50 @@ I used Balsamiq to make some wireframes of how I wanted the site to look. Making
 
 [Wireframes](https://github.com/jakeshaw61/punting-brothers/tree/main/assets/wireframes)
 
-
-
-
-
-
-
-
-
 ## Features
 
 ### Logo and Navigation Bar
-![Image](/assets/screenshots/logo-and-navigation-bar.png?raw=true)
+![Image](assets/screenshots/logo-and-navigation-bar.png?raw=true)
 The logo and navigation bar are featured across all pages including the Thank-you page the user sees when submitting the enquiry form. It includes links to the Logo, About section, History section, Services page and the Gallery page. The navigation bar is fully responsive and the view of the navigation bar is the same across all screen sizes so it will feel familiar to users. This allows users to easily navigate between pages without having to use the back button.
 
 ### The Landing Image
-![Image](/assets/screenshots/landing-image.png?raw=true)
+![Image](assets/screenshots/landing-image.png?raw=true)
 The home page features a landing image of a bright, colourful scene of the River Cam with lots of people punting which stands out against the off-white background. I chose this image as it is a good introduction to The Punting Brothers.
 
 ### About
-![Image](/assets/screenshots/about-section.png?raw=true)
+![Image](assets/screenshots/about-section.png?raw=true)
 This section introduces The Punting Brothers to the user. It includes a short story of how the company was established and introduces the services that are on offer. This section also touches on the aims of the company. 
 
 ### History 
-![Image](/assets/screenshots/history-section.png?raw=true)
+![Image](assets/screenshots/history-section.png?raw=true)
 In the history section a brief history of the punts is given to help the user understand what punting actually is and how it all started. It also gives a brief history of Cambridge, which introduces the user to some of the information they might hear on the service.
 
 ### Services Intro 
-![Image](/assets/screenshots/services-intro.png?raw=true)
+![Image](assets/screenshots/services-intro.png?raw=true)
 This section includes 3 images, with a short introduction underneath to each service that is on offer. It also includes a ‘Find Out More’ button which takes you to the Services page where you can find the full information about each service offered.
 
 ### Reviews 
-![Image](/assets/screenshots/reviews-section.png?raw=true)
+![Image](assets/screenshots/reviews-section.png?raw=true)
 This section includes 3 reviews from previous users, with star rating icons as a visual cue. Each review talks about a service and helps new users to form an opinion on The Punting Brothers.
 
 ### Footer
-![Image](/assets/screenshots/footer.png?raw=true)
+![Image](assets/screenshots/footer.png?raw=true)
 The Footer is featured across all pages including the Thank-you page. It includes the contact information for The Punting Brothers, opening times, address and an embedded google map which opens in a new tab with the location of the company. It also includes social media icons for Facebook, Instagram and Twitter, which when clicked open in a new tab.
 
 ### Services Page - Services 
-![Image](/assets/screenshots/services-page.png?raw=true)
+![Image](assets/screenshots/services-page.png?raw=true)
 This page includes 3 sections related to Shared Tour, Private Tour and Self-Hire. Each section has details about the service including the prices. These also include a large image, related to the service to help users understand more about the service they will experience.
 
 ### Services Page - Enquiry Form
-![Image](/assets/screenshots/form-section.png?raw=true)
+![Image](assets/screenshots/form-section.png?raw=true)
 The sections includes an enquiry form for users to submit a message to The Punting Brothers. The user will be asked to submit their full name, email address and a message. The form button links to a Thank-you response page.
 
 ### Gallery Page
-![Image](/assets/screenshots/gallery-page.png?raw=true)
+![Image](assets/screenshots/gallery-page.png?raw=true)
 This page features a large gallery wall with supporting images of Cambridge and punting, so users can see what the services will inlcude. 
 
 ### Thank You Resonse Page
-![Image](/assets/screenshots/thank-you-response.png?raw=true)
+![Image](assets/screenshots/thank-you-response.png?raw=true)
 This page has a large thank you message centred on the page explaining the users enquiry has been received. It also encourages users to link with social media accounts while they wait for a reply. 
 
 ### Future Features
@@ -111,16 +103,16 @@ This page has a large thank you message centred on the page explaining the users
 
 ### Html 
 I used the W3C Markup Service to validate my HTML. There were no errors found but warnings flagged about some sections lacking heading (Landing image, Reviews and Gallery sections)
-![Image](/assets/screenshots/index-warnings.png?raw=true)
-![Image](/assets/screenshots/gallery-warnings.png?raw=true)
+![Image](assets/screenshots/index-warnings.png?raw=true)
+![Image](assets/screenshots/gallery-warnings.png?raw=true)
 
 ### CSS
 I used the W3C CSS Validation Service to validate my CSS. No errors were found. 
-![Image](/assets/screenshots/css-validator.png?raw=true)
+![Image](assets/screenshots/css-validator.png?raw=true)
 
 ### Lighthouse 
 
-![Image](/assets/screenshots/lighthouse.png?raw=true)
+![Image](assets/screenshots/lighthouse.png?raw=true)
 
 ### Responsive 
 I used a mobile first approach when designing the site, starting off at the smallest screen size of 320px and scaling it up to screen sizes larger than 1200px. I used Flex-Box and Grid throughout the site, so when i came to the media queries i only had to make some simple changes like flex-direction or column count to make it responsive for other screen sizes. 
