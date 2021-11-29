@@ -32,7 +32,7 @@ I wanted a minimalist overall design with interesting images on each page and a 
 
 ### Colour Scheme
 ![Image](assets/screenshots/colour-scheme.png?raw=true)  
-I have chosen one feature colour throughout the site which blends the pages together. I chose this colour to be the feature as it similar to the Cambridge Blue, which is associated to the city and university.  This colour is used for the header, form section and for the buttons with a darker shade for the hover over.  I choose a medium grey colour to clearly define the footer which stands out against the off-white background.
+I have chosen one feature colour throughout the site which blends the pages together. I chose this colour to be the feature as it is similar to the Cambridge Blue, which is associated to the city and university.  This colour is used for the header, form section and for the buttons with a darker shade for the hover over.  I choose a medium grey colour to clearly define the footer which stands out against the off-white background.
 
 ### Typography
 I used 2 google fonts for the site which are Oswald and Montserrat. For the logo and headings, I chose Oswald as I wanted a strong, bolder font to make each section of the page clear. I then used Montserrat for the majority of the text on the site. These two fonts are used throughout the site to maintain consistency. I choose Sans Serif as a fallback font. 
@@ -104,21 +104,22 @@ This page has a large thank you message centred on the page explaining the users
 ### Html 
 I used the W3C Markup Service to validate my HTML. There were no errors found but warnings flagged about some sections lacking heading (Landing image, Reviews and Gallery sections)
 ![Image](assets/screenshots/index-warnings.png?raw=true)
-![Image](assets/screenshots/gallery-warnings.png?raw=true)
+![Image](assets/screenshots/gallery-warnings.png?raw=true) 
+ 
 
 ### CSS
 I used the W3C CSS Validation Service to validate my CSS. No errors were found. 
 ![Image](assets/screenshots/css-validator.png?raw=true)
 
 ### Lighthouse 
-
+I used Chromes Dev Tools lighthouse feasture to run the site throught to test for Performance, Accessability, Best Practices and SEO.
 ![Image](assets/screenshots/lighthouse.png?raw=true)
 
 ### Responsive 
 I used a mobile first approach when designing the site, starting off at the smallest screen size of 320px and scaling it up to screen sizes larger than 1200px. I used Flex-Box and Grid throughout the site, so when i came to the media queries i only had to make some simple changes like flex-direction or column count to make it responsive for other screen sizes. 
 
 ### Bugs 
-
+- To fix the warnings frot the HTML validator about missing the headings, i changed the section element to a div which solved the issue.
 
 ## Deployment 
 The site was deployed to GitHub pages, the steps to deploy are as follows:
@@ -133,6 +134,7 @@ The site was deployed to GitHub pages, the steps to deploy are as follows:
 - Icons taken from Font Awesome.
 - Image compressor - Optimazilla. 
 - Deployment instructions take from Code Institute readme template. 
+- Colour palette was taken from Coolors.
 
 ### Media 
 - Images were taken from Shutterstock, Unsplash, Pexels and Pixaby.
