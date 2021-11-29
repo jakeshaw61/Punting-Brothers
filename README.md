@@ -123,8 +123,8 @@ I used a mobile first approach when designing the site, starting off at the smal
 
 ## Deployment 
 The site was deployed to GitHub pages, the steps to deploy are as follows:
-- In the GitHub repository, navigate to the Settings tab
-- From the source section drop-down menu, select the Master Branch
+- In the GitHub repository, navigate to the Settings tab.
+- Scroll down to the GitHub Pages setion and from the source section drop-down menu, select the Master Branch and click save.
 - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 
@@ -138,3 +138,8 @@ The site was deployed to GitHub pages, the steps to deploy are as follows:
 
 ### Media 
 - Images were taken from Shutterstock, Unsplash, Pexels and Pixaby.
+
+### Acknowledgements 
+- To the Slack community i managed to solve a couple of issues.
+- Stack Overflow as valuable source of information.
+- W3Schools 
