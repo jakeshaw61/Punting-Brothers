@@ -248,15 +248,16 @@ footer {
     height: auto;
 }
 
+.map-col {
+    margin: auto;
+    padding: 15px 0;
+}
+
 .footer-row-2 {
     display: flex;
     text-align: center;
     justify-content: center;
-}
-
-.map-col {
-    margin: auto;
-    padding: 15px 0;
+    flex-direction: column;
 }
 
 .footer-row-2 i {
@@ -264,6 +265,11 @@ footer {
     padding: 0 30px;
     color: #ffffff;
     margin: 10px 0;
+}
+
+.footer-row-2 p {
+    color: #ffffff;
+    padding-bottom: 5px;
 }
 
 /* Services page - Public Section  */
