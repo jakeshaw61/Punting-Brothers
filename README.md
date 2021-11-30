@@ -98,13 +98,13 @@ This page has a large thank you message centred on the page explaining the users
 - How to Punt page - This page would be useful for anyone who is interested in trying punting themselves. It would include videos and written instructions of how to punt.
 
 ## Testing 
+I have tested the site on Chrome, Safari and Firefox and all the feautues work as intened. I have also tested on mobile sizes and tablet. I designed the site using a mobile first approach so all the features work the same on small size devices as they do larger sizes. 
 
 ### Html 
 I used the [W3C Markup Service](https://validator.w3.org/) to validate my HTML. There were no errors found but warnings flagged about some sections lacking heading (Landing image, Reviews and Gallery sections)
 ![Image](assets/screenshots/index-warnings.png?raw=true)
 ![Image](assets/screenshots/gallery-warnings.png?raw=true) 
  
-
 ### CSS
 I used the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) to validate my CSS. No errors were found. 
 ![Image](assets/screenshots/css-validator.png?raw=true)
