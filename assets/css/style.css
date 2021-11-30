@@ -631,18 +631,6 @@ footer {
 
 @media screen and (min-width: 992px) {
     
-    h2 {
-        font-size: 1.8rem;
-    }
-     
-    h3 {
-        font-size: 1.3rem;
-    }
-
-    p, a, label {
-        font-size: 17px;
-    }
-
     .welcome-container {
         margin: 0 8%;
     }
@@ -676,6 +664,18 @@ footer {
 /* Media queries for screen size 1200px and up  */
 
 @media screen and (min-width:1200px) {
+    
+    h2 {
+        font-size: 1.8rem;
+    }
+     
+    h3 {
+        font-size: 1.3rem;
+    }
+
+    p, a, label {
+        font-size: 17px;
+    }
     
     .nav-row {
         margin: 0 10%;
