@@ -448,7 +448,7 @@ footer {
 }
 
 .thanks-col-1 h2 {
-    font: 1.7rem;
+    font-size: 1.7rem;
     padding: 10px 0;
 }
 
@@ -602,22 +602,22 @@ footer {
     }
 
     .private-col-1 {
-        width: 50%;
+        width: 40%;
     }
 
     .private-col-2 {
         margin: 10px 10px;
-        width: 50%;
+        width: 60%;
         text-align: left;
     }
 
     .self-hire-col-1 {
-        width: 50%;
+        width: 40%;
     }
     
     .self-hire-col-2 {
         margin: 10px 10px;
-        width: 50%;
+        width: 60%;
         text-align: left;
     }
 

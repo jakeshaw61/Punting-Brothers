@@ -25,8 +25,6 @@ You can view the live site here. [The Punting Brothers]()
 - I want to be able to find out information on other or new services. 
 - I want to connect with social media linked to the company to improve my experience.
 
-
-
 ## Design 
 I wanted a minimalist overall design with interesting images on each page and a simple colour scheme that links  throughout.
 
@@ -102,13 +100,13 @@ This page has a large thank you message centred on the page explaining the users
 ## Testing 
 
 ### Html 
-I used the W3C Markup Service to validate my HTML. There were no errors found but warnings flagged about some sections lacking heading (Landing image, Reviews and Gallery sections)
+I used the [W3C Markup Service](https://validator.w3.org/) to validate my HTML. There were no errors found but warnings flagged about some sections lacking heading (Landing image, Reviews and Gallery sections)
 ![Image](assets/screenshots/index-warnings.png?raw=true)
 ![Image](assets/screenshots/gallery-warnings.png?raw=true) 
  
 
 ### CSS
-I used the W3C CSS Validation Service to validate my CSS. No errors were found. 
+I used the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) to validate my CSS. No errors were found. 
 ![Image](assets/screenshots/css-validator.png?raw=true)
 
 ### Lighthouse 
@@ -131,15 +129,15 @@ The site was deployed to GitHub pages, the steps to deploy are as follows:
 ## Credits 
 
 ### Content 
-- Icons taken from Font Awesome.
-- Image compressor - Optimazilla. 
+- Icons taken from [Font Awesome.](https://fontawesome.com/)
+- I used [Optimazilla](https://imagecompressor.com/) to compress the file size of the images. 
 - Deployment instructions take from Code Institute readme template. 
-- Colour palette was taken from Coolors.
+- Colour palette was taken from [Coolors.](https://coolors.co/)
 
 ### Media 
-- Images were taken from Shutterstock, Unsplash, Pexels and Pixaby.
+- Images were taken from [Shutterstock](https://www.shutterstock.com/home), [Unsplash](https://unsplash.com/), [Pexels](https://www.pexels.com/) and [Pixaby.](https://pixabay.com/)
 
 ### Acknowledgements 
 - To the Slack community i managed to solve a couple of issues.
 - Stack Overflow as valuable source of information.
-- W3Schools 
+- [W3Schools](https://www.w3schools.com/) 
